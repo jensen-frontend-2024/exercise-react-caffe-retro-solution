@@ -18,7 +18,7 @@ export const rawData = [
     image: hotImage,
   },
   {
-    header: 'Juicy',
+    header: 'juicy',
     redBoxes: [
       'Ripe fruit - freshly squeezed.',
       "It's as simple as that. Chunky or smooth - it's your choice.",
@@ -31,7 +31,7 @@ export const rawData = [
     image: juicyImage,
   },
   {
-    header: 'Cosy',
+    header: 'cosy',
     redBoxes: [
       'Hang around. Enjoy the settings.',
       'Use our fast WiFi. Borrow a newspaper or a novel.',

@@ -1,0 +1,12 @@
+.navbar {
+  background-color: rgba(0, 0, 0, 0.6);
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  padding-block: 0.5rem;
+  z-index: 1;
+
+  position: fixed;
+  top: 0;
+  width: 100%;
+}

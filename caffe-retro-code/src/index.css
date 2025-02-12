@@ -1,0 +1,16 @@
+@import url('./components/BlackBox.css');
+@import url('./components/RedBox.css');
+@import url('./components/Link.css');
+@import url('./components/Section.css');
+@import url('./components/Navbar.css');
+
+* {
+  box-sizing: border-box;
+  font-family: "Poiret One", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}

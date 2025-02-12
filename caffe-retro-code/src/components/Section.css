@@ -1,0 +1,22 @@
+.section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+
+  background-position: center;
+  border-bottom: 0.5rem solid darkred;
+  height: 100vh;
+  padding-top: 4rem;
+}
+
+.section:last-child {
+  border-bottom: none;
+}
+
+.section h1 {
+  color: darkred;
+  font-family: 'Spirax', sans-serif;
+  font-size: 5rem;
+  text-transform: capitalize;
+}

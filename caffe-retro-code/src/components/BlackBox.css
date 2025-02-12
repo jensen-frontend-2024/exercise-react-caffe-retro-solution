@@ -1,0 +1,11 @@
+.black-box {
+  background-color: rgba(0, 0, 0, 0.6);
+  color: whitesmoke;
+  padding: 1rem 2rem;
+  width: 500px;
+}
+
+.black-box .row {
+  display: flex;
+  justify-content: space-between;
+}
